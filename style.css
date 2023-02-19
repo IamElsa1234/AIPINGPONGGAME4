@@ -1,0 +1,31 @@
+.heading{
+    float: right;
+    border: 5px solid darkblue;
+    width: 100%;
+    font-size: 30px;
+    box-shadow: 15px 15px 15px white;
+    display: inline;
+}
+.instructions{
+    float: right;
+    border: 1px solid white;
+}
+.playy{
+    margin-top: 45px;
+    font-size: 20px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 8, 255);
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px midnightblue;
+    border: 2px solid blue;
+}
